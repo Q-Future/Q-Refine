@@ -15,13 +15,15 @@
   <a href="https://hongkunhao.github.io/" target="_blank">Hongkun Hao</a><sup>1</sup>,
   <a href="https://github.com/zzc-1998" target="_blank">Zicheng Zhang</a><sup>1</sup>,
   <a href="https://github.com/QMME" target="_blank">Tengchuan Kou</a><sup>1</sup>,
-</div>
-<div>
   <a href="https://chaofengc.github.io" target="_blank">Chaofeng Chen</a><sup>2</sup>,
   <a href="https://jhc.sjtu.edu.cn/~xiaohongliu/" target="_blank">Xiaohong Liu</a><sup>1</sup>,
   <a href="http://leibai.site/" target="_blank">Lei Bai</a><sup>3</sup>,
   <a href="https://personal.ntu.edu.sg/wslin/Home.html" target="_blank">Weisi Lin</a><sup>2</sup>,
   <a href="https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153" target="_blank">Guangtao Zhai</a><sup>1</sup>
+</div>
+
+<div>
+  <sup>1</sup>Shanghai Jiao Tong University University, <sup>2</sup>Nanyang Technological University, <sup>3</sup>Shanghai AI Lab
 </div>
 
 _The official repo of AIGC image quality refiners:_
@@ -47,7 +49,7 @@ Change `draw` to enable a quality map output. `multi` for using onr/multiple emb
 
 ### G-Refine
 
-## Training Script
+## 🌈Training
 
 ## 📌 TODO
 - ✅ Release the PQ-Map code (Q-Refine and G-Refine)
