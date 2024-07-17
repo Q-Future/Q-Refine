@@ -28,9 +28,9 @@
 
 _The official repo of AIGC image quality refiners:_
 
-Q-Refine: Single optimization in perceptual quality.
+Q-Refine: Single optimization in perceptual quality. **ICME 2024**
 
-G-Refine: General optimization in perceptual/alignment quality.
+G-Refine: General optimization in perceptual/alignment quality. **ACMMM 2024**
 
 ## 🔎Quality Map
 ### Perceptual Quality Map
@@ -53,7 +53,7 @@ Change `draw` to enable a quality map output. `multi` for using onr/multiple emb
 
 ## 📌 TODO
 - ✅ Release the PQ-Map code (Q-Refine and G-Refine)
-- [ ] Release the AQ-Map code (G-Refine only)
+- ✅ Release the AQ-Map code (G-Refine only)
 - [ ] Release the Q-Refine code
 - [ ] Release the G-Refine code
 - [ ] Release the training script
