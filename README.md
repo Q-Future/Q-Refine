@@ -57,7 +57,7 @@ Change `draw` to enable a quality map output.
 
 For the backbone of refining steps 1 and 2. First, please ensure you have the [SDXL-Inpainting](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) model. Then run `https://github.com/yangxy/PASD.git` to install PASD in this dictionary.
 
-Then please run `refine.ipynb` to refine the `alignment-example.png' image. You may also use your own image and its corresponding prompt.
+Then please use `refine.ipynb` to refine the `alignment-example.png` image. You may also use your own image and its corresponding prompt.
 
 ## 🌈Training
 
